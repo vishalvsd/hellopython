@@ -1,0 +1,10 @@
+print """
+
+long
+
+line
+
+continues
+
+"""
+

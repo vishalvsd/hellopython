@@ -1,0 +1,3 @@
+type ls
+echo "$PATH"
+
